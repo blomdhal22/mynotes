@@ -1,6 +1,8 @@
 Shortcut eclipse vs android studio
 ===================================
 
+Last Updated: 2015-11-19
+
 ** Legend:  **
 
 ```vim
@@ -14,9 +16,9 @@ Find / Search / Replace
 | Name | eclipse | Android Studio
 |--------|---------|---------------|
 | Find   | Ctrl + F  | " |
-| Find previous | ? | Shift + F3| 
-| Replace | Ctrl + H | Ctrl + R |
+| Find previous | ? | Shift + F3|
 | Find in Path (Search Project) | Ctrl + H | Ctrl + Shift + F |
+| Replace | Ctrl + H | Ctrl + R |
 | Search everywhere | - | Double Shift |
 
 Editing
@@ -47,7 +49,7 @@ Refactoring
 Source Navigation
 ------------------
 
-| column | eclipse | Android Studio
+| Name | eclipse | Android Studio
 |--------|---------|---------------|
 | Type hierarchy | Ctrl + T | Ctrl + H |
 | File Structure | Ctrl + O | Ctrl + F12 |
@@ -59,5 +61,6 @@ Run and Debugging
 
 | Name | eclipse | Android Studio
 |--------|---------|---------------|
-|        |         |               |
-|        |         |               |
+| Make Project | - | Ctrl + F9 |
+| Run | Ctrl + F11 | Shift + F10 |
+| Debug | F11 | Shift + F9 |
