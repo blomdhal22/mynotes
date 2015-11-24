@@ -53,6 +53,7 @@ Source Navigation
 |--------|---------|---------------|
 | Type hierarchy | Ctrl + T | Ctrl + H |
 | File Structure | Ctrl + O | Ctrl + F12 |
+| Goto File | Ctrl + Shift + R | Ctrl + Shift + N |
 | Navigate back/forward | Alt + Right/Left | Ctrl + Alt + Left/Right |
 
 
