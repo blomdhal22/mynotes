@@ -1,7 +1,7 @@
 Shortcut eclipse vs android studio
 ===================================
 
-Last Updated: 2015-11-19
+Last Updated: 2015-12-02
 
 ** Legend:  **
 
@@ -16,7 +16,8 @@ Find / Search / Replace
 | Name | eclipse | Android Studio
 |--------|---------|---------------|
 | Find   | Ctrl + F  | " |
-| Find previous | ? | Shift + F3|
+| Find Next / Move to Next Occurrence |  Ctrl + K | F3, Ctrl + L |
+| Find previous / Move to Next Occurrence | Ctrl + Shift + K  | Shift + F3, Ctrl + Shift + L |
 | Find in Path (Search Project) | Ctrl + H | Ctrl + Shift + F |
 | Replace | Ctrl + H | Ctrl + R |
 | Search everywhere | - | Double Shift |
@@ -53,8 +54,10 @@ Source Navigation
 |--------|---------|---------------|
 | Type hierarchy | Ctrl + T | Ctrl + H |
 | File Structure | Ctrl + O | Ctrl + F12 |
-| Goto File | Ctrl + Shift + R | Ctrl + Shift + N |
+| Go to File | Ctrl + Shift + R (Open Resource) | Ctrl + Shift + N |
+| Go to symbol | Ctrl + Shift + T (Open Type) | Ctrl + Alt + Shift + N |
 | Navigate back/forward | Alt + Right/Left | Ctrl + Alt + Left/Right |
+| Open quick definition lookup | ? | Ctrl + Shift + I |
 
 
 Run and Debugging
