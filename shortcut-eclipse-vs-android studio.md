@@ -58,6 +58,7 @@ Source Navigation
 | Go to symbol | Ctrl + Shift + T (Open Type) | Ctrl + Alt + Shift + N |
 | Navigate back/forward | Alt + Right/Left | Ctrl + Alt + Left/Right |
 | Open quick definition lookup | ? | Ctrl + Shift + I |
+| Move to code block end/start | ? | Ctrl + ] / [ |
 
 
 Run and Debugging
