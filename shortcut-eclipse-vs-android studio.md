@@ -1,7 +1,7 @@
 Shortcut eclipse vs android studio
 ===================================
 
-Last Updated: 2015-12-02
+Last Updated: 2016-03-22
 
 ** Legend:  **
 
@@ -44,6 +44,7 @@ Refactoring
 | Name | eclipse | Android Studio
 |--------|---------|---------------|
 | Rename | Ctrl + Alt + R | Shift + F6 |
+|  Getter/Setter |  Alt + Shift + S , R  | Alt + Insert, Getter/Setter |
 |        |         |               |
 
 
