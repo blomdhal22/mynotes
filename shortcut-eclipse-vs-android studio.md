@@ -60,6 +60,7 @@ Source Navigation
 | Navigate back/forward | Alt + Right/Left | Ctrl + Alt + Left/Right |
 | Open quick definition lookup | ? | Ctrl + Shift + I |
 | Move to code block end/start | ? | Ctrl + ] / [ |
+| Go to implementation(s) | ? |  Ctrl + Alt + B |
 
 
 Run and Debugging
